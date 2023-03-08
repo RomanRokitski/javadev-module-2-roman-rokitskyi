@@ -1,0 +1,18 @@
+# Gradle
+.gradle
+gradle.properties
+gradlew
+gradlew.bat
+build/
+
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea
+*.iml
+/out
+.iws
+*.ipr
+HELP.md
+target/
+.DS_Store
